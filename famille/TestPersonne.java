@@ -21,15 +21,10 @@ public class TestPersonne {
         Personne karim = new Personne("Karim", 38);
 
         // Construction de la hiérarchie
-        ahmed.ajouterEnfant(fatima);
-        ahmed.ajouterEnfant(mohamed);
-        ahmed.ajouterEnfant(ali);
 
-        fatima.ajouterEnfant(latifa);
-        latifa.ajouterEnfant(omar);
 
-        ali.ajouterEnfant(aicha);
-        ali.ajouterEnfant(karim);
+
+
 
         // Tests textuels
         System.out.println("=== Informations sur " + ahmed.getNom() + " ===");
