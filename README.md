@@ -1,3 +1,7 @@
+#les nom
+harhour younes
+belkezai mohamed wael
+
 # Projet Arbre Généalogique en Java
 
 Ce projet implémente un système de gestion d'arbre généalogique en Java avec une visualisation graphique utilisant la bibliothèque Raylib.
